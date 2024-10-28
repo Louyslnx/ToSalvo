@@ -52,7 +52,7 @@ ToSalvo é uma extensão que resolve automaticamente questões com **100% de pre
 
 Para mais informações ou suporte, entre em contato via Discord:
 
-- **Louys** | Discord: [Louys#1234](https://discord.com/)
+- **Louys** | Discord: [LouysAtx](https://discord.com/users/685897345258487848)
 
 ---
 
