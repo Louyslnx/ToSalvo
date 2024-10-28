@@ -1,4 +1,4 @@
-# ToSalvo 🚀
+# ToSalvo "ME SALVA" 🚀
 
 ToSalvo é uma extensão que resolve automaticamente questões com **100% de precisão** em menos de **1 segundo**! Projetado para oferecer rapidez e eficácia, ToSalvo é ideal para quem precisa de respostas automáticas e imediatas.
 
