@@ -1,0 +1,1 @@
+function injectScriptFile(){const e=document.createElement("script");e.src=chrome.runtime.getURL("inject.js"),(document.head||document.documentElement).appendChild(e)}injectScriptFile();
