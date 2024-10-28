@@ -33,7 +33,7 @@ ToSalvo é uma extensão que resolve automaticamente questões com **100% de pre
    - [Kiwi Browser na Google Play Store](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 
 2. **Baixe o arquivo ZIP da extensão**:
-   - [ToSalvo.zip](https://github.com/SEUUSUARIO/ToSalvo/archive/refs/heads/main.zip)
+   - [ToSalvo.zip](https://github.com/Louyslnx/ToSalvo/archive/refs/tags/tosalvo.zip)
 
 3. **Instale a Extensão no Kiwi Browser**:
    - Abra o **Kiwi Browser** e acesse `chrome://extensions/`.
