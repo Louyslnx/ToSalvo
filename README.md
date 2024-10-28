@@ -14,7 +14,7 @@ ToSalvo é uma extensão que resolve automaticamente questões com **100% de pre
 ### 🔹 No Desktop (Google Chrome)
 
 1. **Baixe o arquivo ZIP**:
-   - [ToSalvo.zip](https://github.com/SEUUSUARIO/ToSalvo/archive/refs/heads/main.zip)
+   - [ToSalvo.zip](https://github.com/Louyslnx/ToSalvo/archive/refs/tags/tosalvo.zip)
 
 2. **Extraia o conteúdo**:
    - Localize o arquivo `.zip` baixado e extraia seu conteúdo para uma pasta.
