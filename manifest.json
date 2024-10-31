@@ -3,10 +3,6 @@
   "name": "MEsalva",
   "description": "By Louys da manga",
   "version": "1.2.3",
-  "action": {
- 
-  },
- 
   "permissions": [
     "activeTab",
     "scripting",
@@ -19,37 +15,28 @@
   ],
   "content_scripts": [
     {
-      "matches": [
-        "<all_urls>"
-      ],
-      "js": [
-        "content_script.js"
-      ],
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"],
       "run_at": "document_start",
       "all_frames": true
     },
     {
-      "matches": [
-        "*://*.mesalva.com/*"
-      ],
-      "js": [
-        "injector.js"
-      ],
+      "matches": ["*://*.mesalva.com/*"],
+      "js": ["injector.js"],
       "run_at": "document_start",
       "all_frames": true
     }
   ],
   "web_accessible_resources": [
     {
-      "resources": [
-        "content_script.js",
-        "inject.js",
-        "injector.js"
-      ],
-      "matches": [
-        "*://*.mesalva.com/*"
-      ],
-      "use_dynamic_url": true
+      "resources": ["content_script.js", "inject.js", "injector.js"],
+      "matches": ["*://*.mesalva.com/*"]
     }
-  ]
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
 }
